@@ -45,3 +45,10 @@ img{
 figcaption{
     text-align: center;
 }
+
+#story{
+    margin: 15px;
+    width: 438px;
+    height: 300px;
+     
+}
