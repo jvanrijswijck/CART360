@@ -46,6 +46,12 @@ figcaption{
     text-align: center;
 }
 
+#board{
+    margin: 15px;
+    width: 600px;
+    height: 250px   ;
+}
+
 #story{
     margin: 15px;
     width: 438px;
