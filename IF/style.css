@@ -1,0 +1,47 @@
+.container{
+    position: relative;
+    background-color: rgba(211,211,211,1);
+    
+}
+h1, p  {
+    font-family: monospace;
+    line-height: 1.5;
+    
+}
+
+p{
+    text-align: justify;
+}
+
+.right{
+    text-align: right;
+}
+
+#header{
+    margin-bottom: 25px
+}
+
+#content{
+    padding: 10px;
+    overflow: hidden;
+}
+
+h2{
+    font-size: 17px;
+    font-weight: bold;
+}
+
+h3{
+    font-size: 25px;
+}
+
+img{
+    margin: 15px;
+    width: 250px;
+    height: 250px;
+     
+}
+
+figcaption{
+    text-align: center;
+}
